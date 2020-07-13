@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c26ce35c-1333-41e7-a5ea-aaa3c7df6238" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Roboto-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/webpack-logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/roboto.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.9337e1c041f7d29c83c5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/03523cf578d69fa923226ff457b92d90.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/11891c206292f0e6d3d34010079c0db9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/analytics.6b153080b8693935c9b0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.4c3bb9aa3043009c3281.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/analytics.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/analytics.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
@@ -75,7 +72,7 @@
       <updated>1594523795434</updated>
       <workItem from="1594523796689" duration="11634000" />
       <workItem from="1594543820082" duration="206000" />
-      <workItem from="1594617775227" duration="5712000" />
+      <workItem from="1594617775227" duration="7766000" />
     </task>
     <servers />
   </component>
