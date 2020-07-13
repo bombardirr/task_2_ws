@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c26ce35c-1333-41e7-a5ea-aaa3c7df6238" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/analytics.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/json.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/webpack-logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/roboto.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.9337e1c041f7d29c83c5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +44,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -44,10 +52,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/assets/fonts" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/dist" />
     </key>
@@ -64,7 +74,8 @@
       <option name="presentableId" value="Default" />
       <updated>1594523795434</updated>
       <workItem from="1594523796689" duration="11634000" />
-      <workItem from="1594543820082" duration="34000" />
+      <workItem from="1594543820082" duration="206000" />
+      <workItem from="1594617775227" duration="5712000" />
     </task>
     <servers />
   </component>
@@ -72,6 +83,7 @@
     <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/task_2" />
     </ignored-roots>
@@ -81,9 +93,21 @@
       <screen x="0" y="25" width="1440" height="818" />
     </state>
     <state x="875" y="211" key="#Web_Browsers/0.25.1440.818@0.25.1440.818" timestamp="1594524845099" />
-    <state x="43" y="66" key="SettingsEditor" timestamp="1594543852982">
+    <state x="415" y="240" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594630667621">
       <screen x="0" y="25" width="1440" height="818" />
     </state>
-    <state x="43" y="66" key="SettingsEditor/0.25.1440.818@0.25.1440.818" timestamp="1594543852982" />
+    <state x="415" y="240" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.818@0.25.1440.818" timestamp="1594630667621" />
+    <state x="118" y="72" key="SettingsEditor" timestamp="1594632460473">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state x="118" y="72" key="SettingsEditor/0.25.1440.818@0.25.1440.818" timestamp="1594632460473" />
+    <state x="745" y="195" key="run.anything.popup" timestamp="1594632506219">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state x="745" y="195" key="run.anything.popup/0.25.1440.818@0.25.1440.818" timestamp="1594632506219" />
+    <state x="385" y="167" width="670" height="676" key="search.everywhere.popup" timestamp="1594618028347">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state x="385" y="167" width="670" height="676" key="search.everywhere.popup/0.25.1440.818@0.25.1440.818" timestamp="1594618028347" />
   </component>
 </project>
