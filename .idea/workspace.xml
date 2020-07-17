@@ -2,67 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c26ce35c-1333-41e7-a5ea-aaa3c7df6238" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/less.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/README.es.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/get.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/get.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/lib/content/path.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/lib/content/path.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/lib/content/read.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/lib/content/read.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/lib/content/rm.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/lib/content/rm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/lib/content/write.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/lib/content/write.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/lib/entry-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/lib/entry-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/lib/memoization.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/lib/memoization.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/lib/util/fix-owner.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/lib/util/fix-owner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/lib/util/hash-to-segments.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/lib/util/hash-to-segments.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/lib/util/move-file.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/lib/util/move-file.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/lib/util/tmp.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/lib/util/tmp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/lib/util/y.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/lib/verify.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/lib/verify.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/locales/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/locales/en.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/locales/es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/locales/es.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/ls.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/ls.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/put.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/put.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cacache/rm.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cacache/rm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chownr/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/chownr/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/find-cache-dir/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/find-cache-dir/license" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/find-cache-dir/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/find-cache-dir/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lru-cache/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lru-cache/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/make-dir/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/make-dir/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/make-dir/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/make-dir/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/make-dir/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/make-dir/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/make-dir/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/make-dir/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/serialize-javascript/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/serialize-javascript/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/serialize-javascript/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/serialize-javascript/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/serialize-javascript/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/serialize-javascript/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ssri/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ssri/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ssri/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ssri/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ssri/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ssri/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ssri/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ssri/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/dist/TaskRunner.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/dist/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/dist/minify.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/dist/minify.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/dist/options.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/dist/options.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/dist/worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/terser-webpack-plugin/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/yallist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/yallist/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/yallist/yallist.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/yallist/yallist.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/03523cf578d69fa923226ff457b92d90.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/11891c206292f0e6d3d34010079c0db9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/analytics.319dddaee2f4128ea603.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.2ba38c5a103caa4ce97f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.be4ff498459967c13354.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors~analytics~main.913682ef5b90c7f819f9.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +73,7 @@
       <updated>1594523795434</updated>
       <workItem from="1594523796689" duration="11634000" />
       <workItem from="1594543820082" duration="206000" />
-      <workItem from="1594617775227" duration="17693000" />
+      <workItem from="1594617775227" duration="19689000" />
     </task>
     <servers />
   </component>

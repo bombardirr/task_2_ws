@@ -34,6 +34,8 @@ if (isProd) {
 return config
 }
 
+const filename = ext => isDev ? `[name].${ext}` : `[name].[hash].${ext}`
+
 module.exports = {
   context: path.resolve(__dirname, 'src'),
   mode: 'development',
@@ -42,7 +44,7 @@ module.exports = {
     analytics: './analytics.js'
   },
   output: {
-    filename: '[name].[hash].js',
+    filename: filename('js'),
     path: path.resolve(__dirname, 'dist')
   },
   optimization: optimization(),
@@ -67,7 +69,7 @@ module.exports = {
       ],
     }),
     new MiniCssExtractPlugin({
-      filename: '[name].[hash].css'
+      filename: filename('css')
     }),
   ],
   module: {
